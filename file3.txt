@@ -1,1 +1,5 @@
 Este é o exmeplo de um ficheiro de texto file2
+
+
+
+Acrecebte algumas linhas ao file3
